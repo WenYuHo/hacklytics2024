@@ -24,6 +24,7 @@ Please note that the animation feature may not render correctly in Tableau Cloud
 
 ## Additional Notes
 - For the best experience, it is recommended to use Tableau Desktop or Tableau Server.
+- Take a look at our MentalHealth.ipynb file for more information about global mental health statistics.
 - Feel free to reach out for any questions or feedback.
 
 This project aims to contribute to the understanding of global mental health trends and serves as a valuable tool for further research and analysis.
