@@ -23,11 +23,13 @@ Please note that the animation feature may not render correctly in Tableau Cloud
 3. Zoom in on trend lines to closely examine the trends in major mental health disorders.
 
 ## Image Spaces
-![World Map](insert_world_map_image_link_here)
-*Caption: World Map showcasing global mental health trends*
+![World Map](https://github.com/WenYuHo/hacklytics2024/blob/main/world_dashboard1.png)
+*Caption: World Map showcasing global mental health trends animation over the last 20 years*
+![Zoom into USA](https://github.com/WenYuHo/hacklytics2024/blob/main/usa_dashboard1.png)
+*Caption: World Map showcasing global mental health trends animation over the last 20 years*
 
-![Trend Lines](insert_trend_lines_image_link_here)
-*Caption: Trend lines illustrating the evolution of major mental health disorders*
+![Trend Lines](https://github.com/WenYuHo/hacklytics2024/blob/main/usa_dashboard2.png)
+*Caption: Trend lines illustrating the evolution of major mental health disorders in USA over the last 20 years*
 
 ## Additional Notes
 - For the best experience, it is recommended to use Tableau Desktop or Tableau Server.
