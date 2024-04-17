@@ -32,8 +32,8 @@ Please note that the animation feature may not render correctly in Tableau Cloud
 *Caption: Trend lines illustrating the evolution of major mental health disorders in USA over the last 20 years*
 
 ## Additional Notes
-- For the best experience, it is recommended to use Tableau Desktop or Tableau Server.
 - Take a look at our MentalHealth.ipynb file for more information about global mental health statistics.
+- For the best experience, it is recommended to use Tableau Desktop or Tableau Server.
 - Feel free to reach out for any questions or feedback.
 
 This project aims to contribute to the understanding of global mental health trends and serves as a valuable tool for further research and analysis.
